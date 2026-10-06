@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="La Foulée Bleck">
+  <defs>
+    <linearGradient id="fb-drop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5ad8e6"/>
+      <stop offset="1" stop-color="#1e88e5"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#ff7a1a" stroke-width="3.2" stroke-linecap="round">
+    <path d="M5 22h9"/><path d="M2 29h10"/><path d="M6 36h7"/>
+  </g>
+  <path transform="rotate(28 29 30)" fill="url(#fb-drop)" d="M29 5c5.2 8.2 11.5 15.4 11.5 25a11.5 11.5 0 0 1-23 0C17.5 20.4 23.8 13.2 29 5z"/>
+  <path transform="rotate(28 29 30)" d="M23.5 31.5a6 6 0 0 0 5 6" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" opacity=".85"/>
+</svg>
